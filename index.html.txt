@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Click Link to Watch</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #fff;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+      height: 100vh;
+    }
+    .container {
+      text-align: center;
+      padding: 30px;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+      background-color: #fff;
+    }
+    h2 {
+      margin-bottom: 20px;
+      color: #333;
+    }
+    a {
+      display: block;
+      text-decoration: none;
+      color: #fff;
+      background-color: #000;
+      padding: 12px 20px;
+      border-radius: 6px;
+      margin: 10px 0;
+      font-weight: bold;
+      transition: background 0.3s ease;
+    }
+    a:hover {
+      background-color: #333;
+    }
+    .ads {
+      margin-top: 30px;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <h2>Click Link to Watch</h2>
+
+    <a href="https://cdn.videy.co/MPRa4kiM1.mp4" target="_blank">
+      https://cdn.videy.co/MPRa4kiM1.mp4
+    </a>
+    <a href="https://cdn.videy.co/MPRa4kiM1.mp4" download>
+      Download Video Here
+    </a>
+
+    <!-- 🧩 Slot Iklan -->
+    <div class="ads">
+      <script type="text/javascript">
+	atOptions = {
+		'key' : '8808781a21e7d54d6f18cc7d14c464d2',
+		'format' : 'iframe',
+		'height' : 50,
+		'width' : 320,
+		'params' : {}
+	};
+</script>
+<script type="text/javascript" src="//delivercanes.com/8808781a21e7d54d6f18cc7d14c464d2/invoke.js"></script>
+    </div>
+  </div>
+
+  <!-- 📊 Slot Histats -->
+   <!-- Histats.com  START  (aync)-->
+
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+
+_Hasync.push(['Histats.start', '1,4917157,4,0,0,0,00010000']);
+
+_Hasync.push(['Histats.fasi', '1']);
+
+_Hasync.push(['Histats.track_hits', '']);
+
+(function() {
+
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+
+hs.src = ('//s10.histats.com/js15_as.js');
+
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+
+})();</script>
+
+<noscript><a href="/" target="_blank"><img alt="" border="0" src="//sstatic1.histats.com/0.gif?4917157&amp;101"></a></noscript>
+
+<!-- Histats.com  END  -->
+</body>
+</html>
